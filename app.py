@@ -96,7 +96,7 @@ CONTACT = {
     "name": "Ali Alkhulaqi",
     "phone": "347-750-4280",
     "email": "alialkhulaqi2115@gmail.com",
-    "linkedin": "linkedin.com/in/ali-alkhulaqi",
+    "linkedin": "www.linkedin.com/in/ali-alkhulaqi-19a1a3315",
     "github": "github.com/Ali749",
 }
 
